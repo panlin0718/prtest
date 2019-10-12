@@ -159,10 +159,6 @@ mAutoTestingManager = new AutoTestingManager();
 
 
 
-> QNRTC-Android 的 SDK 内拥有丰富的回调，在回调内进行测试结果的上传即可。
-
-
-
 ### 参考文档
 
 Android SDK QNRTCEngine API 文档：https://doc.qnsdk.com/rtn/android/docs/api_qnrtcengine 
