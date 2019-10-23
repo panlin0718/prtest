@@ -157,7 +157,6 @@ mAutoTestingManager = new AutoTestingManager();
         mAutoTestingManager.init();
 ```
 
-^^^^^^^^^^^^^^^^^^%%%%%%%%%%
 
 ### 参考文档
 
